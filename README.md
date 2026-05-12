@@ -64,6 +64,7 @@ Aplicativo mobile para consulta de créditos fiscais integrado com APIs governam
 ### **Databases & DevTools**
 <p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white" />
@@ -76,6 +77,7 @@ Aplicativo mobile para consulta de créditos fiscais integrado com APIs governam
 - 🧪 **Testing:** Unit Testing, Integration Testing, TDD (Foco em cobertura resiliente).
 - ⚙️ **DevOps:** CI/CD Pipelines, Docker Compose, Automação com Bash.
 - 💳 **Integrations:** Gateway de Pagamentos, OAuth 2.0 (Gov.br) e APIs RESTful.
+- 📈 **Observabilidade:** Monitoramento de erros e performance em tempo real com Sentry.
 
 ---
 
