@@ -69,6 +69,7 @@ Aplicativo mobile para consulta de créditos fiscais integrado com APIs governam
 - 50k+ usuários ativos com 99.2% crash-free rate em produção.
 - Arquitetura MVVM com persistência local via Hive focado na experiência de usuário.
 - Integração com OAuth 2.0 (gov.br) e otimização de latência de 3-5s para <100ms.
+- Push notifications via Firebase Cloud Messaging e deep linking para navegação direta.
 - Monitoramento de erros e estabilidade em tempo real com Firebase Crashlytics.
 
 ---
